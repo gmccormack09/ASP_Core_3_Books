@@ -1,0 +1,12 @@
+﻿.btn {
+    width: 125px;
+}
+
+.imageThumbnail {
+    min-height: 300px;
+    max-height: 300px;
+}
+.profilePicThumbnail {
+    height: 50px;
+    width: 50px;
+}
