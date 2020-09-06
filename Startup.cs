@@ -48,11 +48,11 @@ namespace BugTracker
                 config.Filters.Add(new AuthorizeFilter(policy));
             }).AddXmlSerializerFormatters();
             
-            services.AddAuthentication().AddGoogle(options =>
-            {
-                options.ClientId = "619393819434-nq1io7u4die3qaduc2nfu2u470d38abd.apps.googleusercontent.com";
-                options.ClientSecret = "P9G2Vkf4fqqOA3PCBydHxzxv";
-            });
+            //services.AddAuthentication().AddGoogle(options =>
+            //{
+            //   options.ClientId = "fakeClientId";
+            //    options.ClientSecret = "fakeClientSecret";
+            //});
 
             services.AddAuthorization(options =>
             {

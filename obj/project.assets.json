@@ -9108,11 +9108,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Visual Studio Projects\\PartyInvites\\BooksAspCore3\\BugTracker.csproj",
+      "projectUniqueName": "D:\\Visual Studio Projects\\PartyInvites\\ASP_Core_3_Books\\BugTracker.csproj",
       "projectName": "BugTracker",
-      "projectPath": "D:\\Visual Studio Projects\\PartyInvites\\BooksAspCore3\\BugTracker.csproj",
+      "projectPath": "D:\\Visual Studio Projects\\PartyInvites\\ASP_Core_3_Books\\BugTracker.csproj",
       "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-      "outputPath": "D:\\Visual Studio Projects\\PartyInvites\\BooksAspCore3\\obj\\",
+      "outputPath": "D:\\Visual Studio Projects\\PartyInvites\\ASP_Core_3_Books\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

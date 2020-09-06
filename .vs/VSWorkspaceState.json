@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Migrations"
+    "\\Migrations",
+    "\\Views",
+    "\\wwwroot"
   ],
-  "SelectedNode": "\\BugTracker.csproj",
+  "SelectedNode": "\\Startup.cs",
   "PreviewInSolutionExplorer": false
 }
